@@ -1,6 +1,6 @@
 #------------------------------------------------
-# Script: Qualidade de CafÃ©
-# Autor: Junior Pastor PÃ©rez-Molina, Ph.D.
+# Script: Qualidade de Café
+# Autor: Junior Pastor Pérez-Molina, Ph.D.
 # Date: 07-17-2019
 # Database from: Dr. Edgard Picole, Ph.D.
 #------------------------------------------------
