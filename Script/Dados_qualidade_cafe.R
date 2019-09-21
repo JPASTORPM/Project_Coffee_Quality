@@ -24,6 +24,7 @@ if(!grepl("Proyecto - Edgar", getwd())){
 #------------------------------------------------
 qualidade<-read.delim("Data/Dados_qualidade_cafe.txt",header=T,sep="\t",dec=".")
 str(qualidade)
+getwd()
 #------------------------------------------------
 
 
